@@ -1,0 +1,15 @@
+{
+       "split": "development",
+       "microphones": [
+              17,
+              18,
+              19
+       ],
+       "exclude": [
+              "conversation1_t3",
+              "femalemonologue2_t3",
+              "interactive1_t2",
+              "interactive4_t3",
+              "malemonologue2_t3"
+       ]
+}
