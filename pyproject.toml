@@ -1,0 +1,15 @@
+[project]
+name = "envisionbox-speech-tutorial"
+version = "0.1.0"
+requires-python = "==3.10.4"
+readme = "README.md"
+dependencies = [
+  "transformers==4.36.2",
+  "pyannote.audio",
+  "praat-parselmouth",
+  "tgt",
+  "soundfile",
+  "librosa",
+  "pandas",
+  "montreal-forced-aligner"
+]
